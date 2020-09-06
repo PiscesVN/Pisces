@@ -471,7 +471,6 @@ a {
   padding-bottom: 0%;
 }
 .fh5co-portfolio h3, .fh5co-portfolio h4 {
-  /*font-family: "Montserrat";*/
   color: #1e1f29;
   text-transform: uppercase;
   line-height: 1.2;
@@ -729,7 +728,6 @@ div#page-content {
   margin-bottom: 50px;
 }
 .fh5co-news h5 {
-  /*font-family: "Montserrat";*/
   color: #1e1f29;
   font-size: 20px;
 }
@@ -902,7 +900,6 @@ div#page-content {
   font-family: "Montserrat Bold";
   font-size: 33px;
   color: #237BE8;
-  /*text-transform: uppercase;*/
 }
 .form-box h4::after {
   position: absolute;
